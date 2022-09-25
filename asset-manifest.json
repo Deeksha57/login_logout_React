@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/login_logout_React/static/css/main.abd64e84.css",
+    "main.js": "/login_logout_React/static/js/main.e0248c84.js",
+    "index.html": "/login_logout_React/index.html",
+    "main.abd64e84.css.map": "/login_logout_React/static/css/main.abd64e84.css.map",
+    "main.e0248c84.js.map": "/login_logout_React/static/js/main.e0248c84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.e0248c84.js"
+  ]
+}
